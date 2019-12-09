@@ -1,4 +1,4 @@
-This project was created from this sketch file [sketchappsources](https://www.sketchappsources.com/free-source/4106-design-to-react-code-sketch-freebie-resource.html)
+This project was created in 1 day from this sketch file [sketchappsources](https://www.sketchappsources.com/free-source/4106-design-to-react-code-sketch-freebie-resource.html)
 
 ![](https://www.sketchappsources.com/resources/source-image/design-to-code-generator-landing-page-template-kanad-bahalkar.png)
 ## Demo

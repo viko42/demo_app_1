@@ -58,8 +58,8 @@ export const HeaderContent = styled.div`
 
   background-image: url(${mainIllustration});
   background-repeat: no-repeat;
-  background-position: right;
-  background-position-y: 10px;
+  background-size: contain;
+  background-position: right 80px;
 `;
 export const IllustrationMain = styled.div`
   position: relative;

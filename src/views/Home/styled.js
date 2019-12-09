@@ -20,6 +20,10 @@ export const Testimonials = styled.div`
   flex-direction: row;
   justify-content: center;
 
+  margin-top: 70px;
+  @media (max-width: ${screensSize.small}) {
+    margin-top: 20px;
+  }
   padding: 0px 45px;
   @media (max-width: ${screensSize.medium}) {
     padding: 0px 15px;

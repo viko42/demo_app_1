@@ -33,7 +33,7 @@ export const Links = styled.ul`
   }
   li {
     padding: 15px 0px;
-    width: 130px;
+    /* width: 130px; */
     display: inline;
     font-family: Helvetica;
     font-size: 14px;

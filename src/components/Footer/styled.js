@@ -27,6 +27,10 @@ export const Links = styled.ul`
   flex: 2;
   display: flex;
   justify-content: center;
+  @media (max-width: ${screensSize.small}) {
+    flex-direction: column;
+    padding: 0px;
+  }
   li {
     padding: 15px 0px;
     width: 130px;

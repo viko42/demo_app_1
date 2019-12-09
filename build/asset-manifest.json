@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8061a92.chunk.css",
+    "main.js": "/static/js/main.fc42a555.chunk.js",
+    "main.js.map": "/static/js/main.fc42a555.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80137d87.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80137d87.js.map",
+    "static/js/2.247ffbd5.chunk.js": "/static/js/2.247ffbd5.chunk.js",
+    "static/js/2.247ffbd5.chunk.js.map": "/static/js/2.247ffbd5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bd9181036ad36441e1cd2bec74bb0faa.js": "/precache-manifest.bd9181036ad36441e1cd2bec74bb0faa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c8061a92.chunk.css.map": "/static/css/main.c8061a92.chunk.css.map",
+    "static/media/index.css": "/static/media/BackgroundDecor1.a61a1b6b.png",
+    "static/media/IllustrationQuote.png": "/static/media/IllustrationQuote.932974c9.png",
+    "static/media/VincentIllustration.png": "/static/media/VincentIllustration.391fdcce.png",
+    "static/media/group-2@2x.png": "/static/media/group-2@2x.26d0e13f.png",
+    "static/media/illustration-main.png": "/static/media/illustration-main.6cb07038.png",
+    "static/media/illustration-whiteglove@2x.png": "/static/media/illustration-whiteglove@2x.081159b5.png",
+    "static/media/logo@3x.png": "/static/media/logo@3x.6cd0d6ff.png",
+    "static/media/story.name.md": "/static/media/story.name.6cd0167c.md",
+    "static/media/story.team.md": "/static/media/story.team.ca829de2.md",
+    "static/media/testimonial-picture-female@2x.png": "/static/media/testimonial-picture-female@2x.a90ad9db.png",
+    "static/media/testimonial-picture-male@2x.png": "/static/media/testimonial-picture-male@2x.822dfab1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80137d87.js",
+    "static/js/2.247ffbd5.chunk.js",
+    "static/css/main.c8061a92.chunk.css",
+    "static/js/main.fc42a555.chunk.js"
+  ]
+}

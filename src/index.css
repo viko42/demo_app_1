@@ -1,0 +1,21 @@
+html {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position-y: -200px;
+  background-image: url('./assets/images/BackgroundDecor1-fs8.png');
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 6px 0px 0px 0px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

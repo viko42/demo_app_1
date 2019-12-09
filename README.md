@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-Open [https://viko42.github.io/demo_app_1/](This link) to view it in the browser
+Open [https://viko42.github.io/demo_app_1/](https://viko42.github.io/demo_app_1/) to view it in the browser
 
 ## Installation
 

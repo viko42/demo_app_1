@@ -31,10 +31,10 @@ export const Links = styled.ul`
     flex-direction: column;
     padding: 0px;
   }
+  list-style-type: none;
   li {
     padding: 15px 0px;
-    /* width: 130px; */
-    display: inline;
+    width: 130px;
     font-family: Helvetica;
     font-size: 14px;
     font-weight: normal;
